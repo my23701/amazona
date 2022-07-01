@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'White Mohey Ethnic Simple Kurta',
       slug: 'white-ethnic-Simple-Kurta',
       category: 'Kurtas',
@@ -13,6 +14,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '2',
       name: 'Black Mohey Ethnic Simple Kurta',
       slug: 'black-ethnic-Simple-Kurta',
       category: 'Kurtas',
@@ -25,6 +27,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '3',
       name: 'HOP Blue Ethnic Simple Kurta',
       slug: 'blue-ethnic-Simple-Kurta',
       category: 'Kurtas',
@@ -37,6 +40,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '4',
       name: 'Peter England Red Slim shirt',
       slug: 'pe-slim-shirt',
       category: 'Shirts',
@@ -49,6 +53,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '5',
       name: 'Wrangler Green Slim shirt',
       slug: 'wrangler-slim-shirt',
       category: 'Shirts',
@@ -61,6 +66,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '6',
       name: 'Raymond Black Slim shirt',
       slug: 'raymond-slim-shirt',
       category: 'Shirts',
@@ -73,6 +79,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '7',
       name: 'Peter England Creame Slim Pant',
       slug: 'pe-slim-pant',
       category: 'Pants',
@@ -85,6 +92,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '8',
       name: 'Raymond Green Slim Pant',
       slug: 'raymond-slim-pant',
       category: 'Pants',
@@ -97,6 +105,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '9',
       name: 'Red Tape Brown Slim Pant',
       slug: 'rt-slim-pant',
       category: 'Pants',
